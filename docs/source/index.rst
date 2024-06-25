@@ -17,5 +17,7 @@ Contents
 --------
 
 .. toctree::
+
    Home <self>
-   Test
+   usage
+   api
