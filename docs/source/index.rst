@@ -17,5 +17,5 @@ Contents
 --------
 
 .. toctree::
-
- Test
+   Home <self>
+   Test
