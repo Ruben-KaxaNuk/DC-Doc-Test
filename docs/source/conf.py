@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'KaxaNuk´s Data Curator'
+project = 'Data Curator'
 copyright = '2024, KaxaNuk'
 author = 'KaxaNuk'
 
